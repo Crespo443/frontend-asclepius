@@ -16,3 +16,5 @@ node_modules/
 
 ### Additional directories
 dist
+requirements.json
+responseGetRequest.json
